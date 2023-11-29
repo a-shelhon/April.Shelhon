@@ -3,7 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "April.Shelhon"
+  title: "April Shelhon"
+  image: 
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: 
+    - text: GitHub
+      href: https://github.com/konadog
+    - text: Email
+      href: april.shelhon@colostate.edu
   navbar:
     left:
       - href: index.qmd
