@@ -4,27 +4,19 @@ project:
 
 website:
   title: "April Shelhon"
-  image: 
-about: 
-  template: solana
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      href: 
-    - text: GitHub
-      href: https://github.com/konadog
-    - text: Email
-      href: april.shelhon@colostate.edu
+ 
+
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: test.qmd
+        text: volunteer service
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     css: styles.css
     toc: true
 

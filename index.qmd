@@ -1,5 +1,17 @@
 ---
-title: "April.Shelhon"
+title: "April Shelhon"
+image: a.shelhon.jpg
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: x
+    - text: GitHub
+      href: x
+    - text: Email
+      href: april.shelhon@colostate.edu
 ---
 
 This is a Quarto website.
