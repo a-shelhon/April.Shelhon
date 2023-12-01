@@ -11,8 +11,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: test.qmd
-        text: volunteer service
+      - href: CV/CV.qmd
+        text: Resume
+
+       
+      
 
 format:
   html:
