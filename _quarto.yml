@@ -9,9 +9,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: CV/CV.qmd
+        text: About
+      - href: Resume/index2.qmd
         text: Resume
 
        

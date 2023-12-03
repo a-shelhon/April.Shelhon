@@ -7,24 +7,17 @@
     "text": "This is text"
   },
   {
-    "objectID": "CV/CV.html",
-    "href": "CV/CV.html",
-    "title": "Resume",
-    "section": "",
-    "text": "&lt;p class=\"text-center\"&gt;\n  &lt;a class=\"btn btn-primary btn-lg cv-download\" href=\"`r rmarkdown::metadata$Shelhon_Resume$pdf`\" target=\"_blank\"&gt;\n    &lt;i class=\"fa-solid fa-file-arrow-down\"&gt;&lt;/i&gt;&ensp;Download Current Resume\n  &lt;/a&gt; \n&lt;/p&gt;\n&lt;div class=\"embed-container\"&gt;\n  &lt;iframe src=\"`r rmarkdown::metadata$Shelhon_Resume$pdf`#toolbar=0\" style=\"border: 0.5px;width: 100%;\"&gt;&lt;/iframe&gt; \n&lt;/div&gt;"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "April Shelhon",
     "section": "",
-    "text": "This is a Quarto website.To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Soil Carbon Solutions MS Student ▪ Communications and Marketing Professional ▪ Horticulturist ▪ Wildlife Biologist ▪ Diversified Holistic Farm Manager & Educator ▪ Garden Coach\nAfter years of passionate work at the intersections of soil, food, and wildlife, I am looking toward making a global impact through a career in soil carbon solutions."
+  },
+  {
+    "objectID": "Resume/index2.html",
+    "href": "Resume/index2.html",
+    "title": "Select Resume",
+    "section": "",
+    "text": "Download Resume"
   }
 ]
